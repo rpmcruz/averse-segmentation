@@ -2,11 +2,11 @@
 
 A paper has been submitted to a conference based on this work:
 
-* Averse Deep Semantic Segmentation. Cruz et al. (2019) [not published yet]
+* Averse Deep Semantic Segmentation. Cruz et al. 41st Engineering in Medicine and Biology Conference. (2019)
 
 This paper is an extension for image segmentation, based on our previous work on averse classifiers:
 
-* [Constraining Type II Error: Building Intentionally Biased Classifiers.](https://link.springer.com/chapter/10.1007/978-3-319-59147-6_47) Cruz et al. 14th International Work-Conference on Artificial Neural Networks. LNCS Springer. [Oral] (2017)
+* [Constraining Type II Error: Building Intentionally Biased Classifiers.](https://link.springer.com/chapter/10.1007/978-3-319-59147-6_47) Cruz et al. 14th International Work-Conference on Artificial Neural Networks. LNCS Springer. (2017)
 
 ## Usage
 
