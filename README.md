@@ -1,6 +1,8 @@
 # Averse Segmentation
 
-Traditionally, the trade-off between false positive and false negatives is specified in terms of relative costs using a cost matrix. But it might be more natural in some contexts to apply this trade-off in terms of an absolute cost: for example, we want to minimize false negatives while keeping false positives below a certain $$\rho$$.
+Traditionally, the trade-off between false positive and false negatives is specified in terms of relative costs using a cost matrix. But it might be more natural in some contexts to apply this trade-off in terms of an absolute cost: for example, we want to minimize false negatives while keeping false positives below a certain threshold ρ.
+
+Example of what happens has this threshold is changed:
 
 ![Changing threshold](https://raw.githubusercontent.com/rpmcruz/averse-segmentation/master/figure_threshold.png "Changing threshold")
 
