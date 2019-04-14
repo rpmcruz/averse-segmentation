@@ -1,10 +1,14 @@
 # Averse Segmentation
 
-A paper has been submitted to a conference based on this work:
+Traditionally, the trade-off between false positive and false negatives is specified in terms of relative costs using a cost matrix. But it might be more natural in some contexts to apply this trade-off in terms of an absolute cost: for example, we want to minimize false negatives while keeping false positives below a certain $$\rho$$.
+
+![Changing threshold](https://raw.githubusercontent.com/rpmcruz/averse-segmentation/master/figure_threshold.png "Changing threshold")
+
+This work is the implementation used in the paper:
 
 * Averse Deep Semantic Segmentation. Cruz et al. 41st Engineering in Medicine and Biology Conference. (2019)
 
-This paper is an extension for image segmentation, based on our previous work on averse classifiers:
+This paper is an extension for image segmentation, based on our previous work on averse classifiers, which are applied to tabular data:
 
 * [Constraining Type II Error: Building Intentionally Biased Classifiers.](https://link.springer.com/chapter/10.1007/978-3-319-59147-6_47) Cruz et al. 14th International Work-Conference on Artificial Neural Networks. LNCS Springer. (2017)
 
